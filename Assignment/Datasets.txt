@@ -1,0 +1,40 @@
+Datasets:
+1. Resale Flat Prices [https://data.gov.sg/dataset/resale-flat-prices]
+
+2. Median Rent by Town and Flat Type [https://data.gov.sg/dataset/median-rent-by-town-and-flat-type]
+
+3. HDB Property Information [https://data.gov.sg/dataset/hdb-property-information]
+
+___________________________________________________________________________________________
+Theme: how different variables(such as facilites and location) affects flat resale/rental prices 
+
+___________________________________________________________________________________________
+
+Main Qn: Which is the best "value for money" flat to buy/rent?
+
+ - Are there any notable differences in resale prices and median rent between HDB flats located near facilities compared to those farther away?
+
+- Which area and flat type has best "value for money"?
+
+- What is the trend for rental prices in the area?
+
+- is renting or buying more worth it?
+
+___________________________________________________________________________________________
+
+Story: Close friend with above average income coming to work in singapore for the next 8 to 10 years, location and type of the flats does not really matter to him. All that matters it the value for money of the flats and he also wants to decide whether to rent or buy the flat. 
+
+___________________________________________________________________________________________
+
+Graphs:
+
+Line chart: Rental Prices trend (for looking at the rental price trend)
+
+Histogram: Used to show the distribution of the rental prices and resale prices after finalising the area. (2 diff plots)
+
+Scatterplot: Correlation of facilities and price for each area
+
+Bar chart: Compare rental and sale price for different flat types
+
+Pie Chart: proportion of types of flats in the finalised area
+
